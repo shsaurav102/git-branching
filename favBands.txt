@@ -4,3 +4,9 @@ TOOL
 Lamb of God
 Metallica
 Audioslave
+
+Blues Bands
+===========
+BB Kings
+Eric Clapton
+John Mayer
